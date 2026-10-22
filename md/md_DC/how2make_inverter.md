@@ -1,9 +1,8 @@
 ### 1. Inverter
 
-<small>
-- [1.1. Inverter Schematic](#11-inverter-schematic)
-- [1.2. Simulation](#12-simulation)
-</small>
+<small>[1.1. Inverter Schematic](#11-inverter-schematic)</small>
+
+<small>[1.2. Simulation](#12-simulation)</small>
 
 ---
 
