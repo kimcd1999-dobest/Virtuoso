@@ -3,7 +3,7 @@
 #### 세부목차
 
 
-[**1. Inverter**](./md/how2make_inverter.md)
+[**1. Inverter**](./md_DC/how2make_inverter.md)
 
 
 
