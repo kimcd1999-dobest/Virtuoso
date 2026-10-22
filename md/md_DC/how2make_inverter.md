@@ -1,8 +1,9 @@
 ### 1. Inverter
 
-[1.1. Inverter Schematic](####11-inverter-schematic)
-
-[1.2. Simulation](#####12-simulation)
+<small>
+- [1.1. Inverter Schematic](#11-inverter-schematic)
+- [1.2. Simulation](#12-simulation)
+</small>
 
 ---
 
@@ -61,5 +62,5 @@ Inverter 회로에 대한 Test 파일을 만들고, 미리 만든 NOT 심볼을 
 
 
 
-[목차](../README.md) 
+[목차](../../README.md)
 
