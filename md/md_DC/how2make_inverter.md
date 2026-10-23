@@ -4,7 +4,7 @@
 
 <small>[1.2. Simulation](#12-simulation)</small>
 
-<small>[1.3. Inverter Layout](#12-inverter-layout)</small>
+<small>[1.3. Inverter Layout](#13-inverter-layout)</small>
 
 ---
 
