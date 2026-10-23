@@ -4,6 +4,8 @@
 
 <small>[1.2. Simulation](#12-simulation)</small>
 
+<small>[1.3. Inverter Layout](#12-inverter-layout)</small>
+
 ---
 
 
@@ -27,6 +29,7 @@ NMOS의 width(1u)와 length(100n)는 고정한다. PMOS의 width를 `WIDTH` 변�
 Inverter 회로에 대한 Test 파일을 만들고, 미리 만든 NOT 심볼을 불러낸다.
 
 ![](./img/09_not.png)
+
 
 #### 1.2. Simulation
 
@@ -57,6 +60,29 @@ Inverter 회로에 대한 Test 파일을 만들고, 미리 만든 NOT 심볼을 
 
 ![](./img/17_not.png)
 
+
+#### 1.3. Inverter Layout
+
+수정한 Schematic을 기반으로 Inverter의 Layout을 진행한다. 
+
+먼저 `Options`의 `Display`에서 x와 y의 `Snap Spacing`을 `0.005`로 수정한다.
+
+전체 Layout은 다음과 같다.
+
+![](./img/18_not.png)
+![](./img/19_not.png)
+
+`gpdk090` Lib PMOS의 Finger Width를 2.91u로 설정하고 VDD(body)와 연결한다.
+
+![](./img/20_not.png)
+
+`gpdk090` Lib NMOS의 Finger Width를 1u로 설정하고 VSS(body)와 연결한다.
+
+![](./img/21_not.png)
+
+PMOS와 NMOS 사이에 metal1과 poly를 연결하고, VIN-VOUT Label을 붙인다.
+
+![](./img/22_not.png)
 
 
 
