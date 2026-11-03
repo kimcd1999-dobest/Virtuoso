@@ -6,8 +6,7 @@
 [**1. Inverter**](./md_DC/how2make_inverter.md)
 
 
-
-<!-- [**2. 2NAND**](./md/how2make_2NAND.md) -->
+[**2. 2NAND**](./md_DC/how2make_2NAND.md)
 
 
 
