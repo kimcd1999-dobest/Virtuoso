@@ -39,7 +39,7 @@ NMOS의 width(1u)와 length(100n)는 고정한다. PMOS 2개의 width를 `WIDTH`
 
 4. `Results` - `Direct Plot` - `Main Form`에서 그래프 결과를 확인한다.
 
-5. (0.5, 0.5)에 가까운 width 값을 찾는다. 2u ~ 3u, 2.9u ~ 3u로 소수점 둘째 자리까지 근사치를 찾는다.
+5. (0.5, 0.5)에 가까운 width 값을 찾는다. 소수점 둘째 자리까지 근사치를 찾는다.
 
 PMOS의 width가 2.53u일 때 조건을 가장 만족한다.
 
@@ -69,8 +69,16 @@ PMOS width를 수정한 Schematic을 기반으로 2NAND의 Layout을 진행한�
 
 2NAND stick diagram에 맞게 poly와 metal을 연결하고 layout을 완성한다.
 
+가로 세로 사이즈는 1.36 * 5.6으로 최소화한다.
+
 ![](./img/2nand_06.png)
 
+
+마지막으로 Cadence에서 제공하는 Assura 도구로 Schematic과 Layout에 대한 오류를 확인한다.
+
+첫 번째로, `Assura`에서 `DRC(Design Rule Check)`를 진행한다. DRC는 gpdk090을 기준으로 제조 공정 규칙을 준수하는지 확인한다.
+
+두 번째로 `Assura`에서 `LVS(Layout Versus Schematic)`를 진행한다. Schematic과 Layout 간의 회로 연결 및 설계 오류가 없는지 확인한다.
 
 
 [목차](../../README.md)
