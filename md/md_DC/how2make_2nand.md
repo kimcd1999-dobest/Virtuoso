@@ -72,6 +72,12 @@ PMOS width를 수정한 Schematic을 기반으로 2NAND의 Layout을 진행한�
 ![](./img/2nand_06.png)
 
 
+마지막으로 Cadence에서 제공하는 Assura 도구로 Schematic과 Layout에 대한 오류를 확인한다.
+
+첫 번째로, `Assura`에서 `DRC(Design Rule Check)`를 진행한다. DRC는 gpdk090을 기준으로 제조 공정 규칙을 준수하는지 확인한다.
+
+두 번째로 `Assura`에서 `LVS(Layout Versus Schematic)`를 진행한다. Schematic과 Layout 간의 회로 연결 및 설계 오류가 없는지 확인한다.
+
 
 
 [목차](../../README.md)
