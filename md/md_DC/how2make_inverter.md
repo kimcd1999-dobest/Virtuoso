@@ -16,7 +16,7 @@ cell view에서 이름은 `Inverter` Type은 `schematic`을 선택하고 inverte
 
 NMOS의 width(1u)와 length(100n)는 고정한다. PMOS의 width를 `WIDTH` 변수로 두어 simulation을 진행하고 최적의 값을 찾는다.
 
-![](C:/work/mygit/virtuoso_proj/md/img/md_DC/img/05_not)
+![](./img/05_not.png)
 
 `Create`의 `From Cellview`를 클릭하고, inverter schematic에 대한 symbol을 생성한다.  
 
