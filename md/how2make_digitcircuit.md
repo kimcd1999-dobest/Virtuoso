@@ -12,4 +12,7 @@
 [**3. 2NOR**](./md_DC/how2make_2nor.md)
 
 
+[**4. 3NAND**](./md_DC/how2make_3nand.md)
+
+
 ---
