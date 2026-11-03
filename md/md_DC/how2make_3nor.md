@@ -48,7 +48,7 @@ PMOS의 width가 5u일 때 조건을 가장 만족한다.
 마지막으로 PMOS의 width 값인 `WIDTH` 변수를 5u로 수정한다.
 
 
-#### 1.3. 2NOR Layout
+#### 1.3. 3NOR Layout
 
 PMOS width를 수정한 Schematic을 기반으로 3NOR의 Layout을 진행한다. 
 
