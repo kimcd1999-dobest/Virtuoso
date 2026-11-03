@@ -10,7 +10,7 @@
 
 
 
-#### 1.1. 2NNOR Schematic
+#### 1.1. 2NOR Schematic
 
 cell view에서 이름은 `2NOR` Type은 `schematic`을 선택하고 2NOR 회로도를 그린다.
 

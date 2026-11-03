@@ -14,6 +14,8 @@
 
 cell view에서 이름은 `Inverter` Type은 `schematic`을 선택하고 inverter 회로도를 그린다.
 
+`Options`의 `Display`에서 `Spacing`과 `snap Spacing`을 0.0625, 0.03125로 설정하는 것을 기본으로 했다.
+
 NMOS의 width(1u)와 length(100n)는 고정한다. PMOS의 width를 `WIDTH` 변수로 두어 simulation을 진행하고 최적의 값을 찾는다.
 
 ![](./img/05_not.png)
