@@ -24,7 +24,7 @@ Schematic과 Layout은 다음 사진과 같다.
       <img src="./img/switch_01.png" width="600">
     </td>
     <td align="center">
-      <img src="./img/switch_02.png" width="600">
+      <img src="./img/switch_02.png" width="400">
     </td>
   </tr>
 </table>
@@ -33,7 +33,7 @@ MUX는 입력 신호에 따라 원하는 출력을 요구할 수 있는 기능�
 
 4x1 MUX 사진을 예시로 알아보겠다. 
 
-<img src="./img/mux_ex.png" width="70%"> <br>
+<img src="./img/mux_ex.png" width="30%"> <br>
 
 
 #### 1.1. 2x1 MUX Schematic
@@ -124,13 +124,13 @@ Schematic에 맞게 poly와 metal을 연결하고 layout을 완성한다.
 Logic은 Switch와 비교할 때 3개의 NAND가 필요하기 때문에 더 많은 TR을 사용한다. 따라서 면적이 더 넓어지는 단점을 가진다.
 
 
+
 마지막으로 Cadence에서 제공하는 Assura 도구로 Schematic과 Layout에 대한 오류를 확인한다.
-
-첫 번째로, `Assura`에서 `DRC(Design Rule Check)`를 진행한다. DRC는 gpdk090을 기준으로 제조 공정 규칙을 준수하는지 확인한다.
-
-두 번째로 `Assura`에서 `LVS(Layout Versus Schematic)`를 진행한다. Schematic과 Layout 간의 회로 연결 및 설계 오류가 없는지 확인한다.
+  -1. `Assura`에서 `DRC(Design Rule Check)`를 진행한다. DRC는 gpdk090을 기준으로 제조 공정 규칙을 준수하는지 확인한다.
+  -2. `Assura`에서 `LVS(Layout Versus Schematic)`를 진행한다. Schematic과 Layout 간의 회로 연결 및 설계 오류가 없는지 확인한다.
 
 
+---
 
 [목차](../../README.md)
 
