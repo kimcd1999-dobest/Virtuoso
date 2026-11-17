@@ -5,7 +5,7 @@
 
 # Digital Circuit Design
 
-## 1. Inverter
+## 1. NOT Gate
 
 - [1. Inverter](./md_DC/how2make_inverter.md)
 
@@ -24,6 +24,16 @@
 - [3-2. 3-input NOR](./md_DC/how2make_3nor.md)
 
 - [3-3. 4-input NOR](./md_DC/how2make_4nor.md)
+
+## 4. MUX Logic & Switch
+
+- [4-1. 2x1 MUX Logic & Switch](./md_DC/21mux.md)
+
+<!-- - [4-2. 4x1 MUX Logic & Switch](./md_DC/how2make_3nor.md)
+
+- [4-3. 8x1 MUX Logic & Switch](./md_DC/how2make_4nor.md)
+
+- [4-3. 16x1 MUX Logic & Switch](./md_DC/how2make_4nor.md) -->
 
 
 ---
