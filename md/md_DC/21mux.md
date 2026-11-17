@@ -21,10 +21,10 @@ Schematic과 Layout은 다음 사진과 같다.
 <table>
   <tr>
     <td align="center">
-      <img src="./img/switch_01.png" width="70%">
+      <img src="./img/switch_01.png" width="60%">
     </td>
     <td align="center">
-      <img src="./img/switch_02.png" width="70%">
+      <img src="./img/switch_02.png" width="80%">
     </td>
   </tr>
 </table>
