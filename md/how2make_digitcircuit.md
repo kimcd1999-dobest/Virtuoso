@@ -29,11 +29,13 @@
 
 - [4-1. 2x1 MUX Logic & Switch](./md_DC/21mux.md)
 
-<!-- - [4-2. 4x1 MUX Logic & Switch](./md_DC/how2make_3nor.md)
+- [4-2. 4x1 MUX Logic & Switch](./md_DC/41mux.md)
 
-- [4-3. 8x1 MUX Logic & Switch](./md_DC/how2make_4nor.md)
+<!-- - [4-3. 8x1 MUX Logic & Switch](./md_DC/how2make_4nor.md)
 
 - [4-3. 16x1 MUX Logic & Switch](./md_DC/how2make_4nor.md) -->
 
 
 ---
+
+[이전](../README.md)
