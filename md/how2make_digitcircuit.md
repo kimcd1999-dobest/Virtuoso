@@ -33,7 +33,7 @@
 
 - [4-3. 8x1 MUX Logic & Switch](./md_DC/81mux.md)
 
-<!-- - [4-3. 16x1 MUX Logic & Switch](./md_DC/how2make_4nor.md) -->
+- [4-3. 16x1 MUX Logic & Switch](./md_DC/161mux.md)
 
 
 ---
