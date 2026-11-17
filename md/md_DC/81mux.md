@@ -12,9 +12,9 @@
 
 cell view에서 이름은 각각 `8x1 MUX Logic`, `8x1 MUX Switch`, Type은 `schematic`을 선택하고 회로도를 그린다.
 
-Logic은 3개의 2x1 MUX Logic Symbol을 가져와 구성한다.
+Logic은 1개의 2x1 MUX Logic, 2개의 4x1 MUX Logic Symbol을 가져와 구성한다.
 
-Switch는 1개의 NOT gate와 TR, 2x1 MUX Switch Symbol로 구성한다.
+Switch는 3개의 NOT gate와 28개 TR로 구성한다.
 
 완성된 회로도는 다음 사진과 같다.
 
