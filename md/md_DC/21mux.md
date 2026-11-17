@@ -21,10 +21,10 @@ Schematic과 Layout은 다음 사진과 같다.
 <table>
   <tr>
     <td align="center">
-      <img src="./img/switch_01.png" width="600">
+      <img src="./img/switch_01.png" width="50%">
     </td>
     <td align="center">
-      <img src="./img/switch_02.png" width="400">
+      <img src="./img/switch_02.png" width="50%">
     </td>
   </tr>
 </table>
@@ -104,8 +104,8 @@ Switch는 1개의 NOT gate와 4개의 TR로 구성한다.
     <td><img src="./img/21mux_logic_05.png" width="80%"></td>
   </tr>
   <tr>
-    <td><img src="./img/21mux_switch_04.png" width="80%"></td>
-    <td><img src="./img/21mux_switch_03.png" width="80%"></td>
+    <td><img src="./img/21mux_switch_04.png" width="60%"></td>
+    <td><img src="./img/21mux_switch_03.png" width="60%"></td>
   </tr>
 </table>
 
