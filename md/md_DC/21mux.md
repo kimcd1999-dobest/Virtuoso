@@ -21,10 +21,10 @@ Schematic과 Layout은 다음 사진과 같다.
 <table>
   <tr>
     <td align="center">
-      <img src="./img/switch_01.png" width="50%">
+      <img src="./img/switch_01.png" width="70%">
     </td>
     <td align="center">
-      <img src="./img/switch_02.png" width="50%">
+      <img src="./img/switch_02.png" width="70%">
     </td>
   </tr>
 </table>
@@ -33,7 +33,7 @@ MUX는 입력 신호에 따라 원하는 출력을 요구할 수 있는 기능�
 
 4x1 MUX 사진을 예시로 알아보겠다. 
 
-<img src="./img/mux_ex.png" width="30%"> <br>
+<img src="./img/mux_ex.png" width="40%"> <br>
 
 
 #### 1.1. 2x1 MUX Schematic
@@ -98,14 +98,22 @@ Switch는 1개의 NOT gate와 4개의 TR로 구성한다.
 
 전체 Layout은 다음과 같다.
 
-<table>
+<table align="center">
   <tr>
-    <td><img src="./img/21mux_logic_04.png" width="80%"></td>
-    <td><img src="./img/21mux_logic_05.png" width="80%"></td>
+    <td align="center">
+      <img src="./img/21mux_logic_04.png" width="80%">
+    </td>
+    <td align="center">
+      <img src="./img/21mux_logic_05.png" width="80%">
+    </td>
   </tr>
   <tr>
-    <td><img src="./img/21mux_switch_04.png" width="60%"></td>
-    <td><img src="./img/21mux_switch_03.png" width="60%"></td>
+    <td align="center">
+      <img src="./img/21mux_switch_04.png" width="60%">
+    </td>
+    <td align="center">
+      <img src="./img/21mux_switch_03.png" width="60%">
+    </td>
   </tr>
 </table>
 
